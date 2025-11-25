@@ -1,0 +1,37 @@
+24-11-2025
+===========
+
+What is Power Bi
+================
+->Power Bi is a Business Intelligence Tool. It helps us to analyse the data, clean the data and convert the data into visual format.
+
+->Collection of components
+1.Power Query : It is a ETL tool(extract, transform, load data from various sources), it is for cleaning the data.
+2.Powerpivot : Data modeling(the process of creating a visual blueprint of data)
+3.Powertool : to create 200+ charts
+4.PowerBI service : helps users to communicate each other. 
+
+why power Bi
+=============
+1.It has maximum feature
+2.chep
+3.Data connectivity : it can import data from 100 data source.
+
+How power Bi works
+===================
+->Power Bi is divided into two parts:
+1.Power Bi Desktop: it is a developer tool
+2.Power Bi services: it is a online version, it is used for sharing and collabration.
+
+
+Basic Charts in power Bi
+========================
+1. Column Chart : Each category is represented by a vertical bar. If multiple series exist, they appear side by side.
+2. Stacked Column Chart: Each category is a single vertical bar, but divided into stacked segments representing subcategories.
+3. Pie Chart
+4. Donut Chart
+5. Funnel Chart
+6. Ribbon chart
+7. Keep only and Exlude
+8. View Data and Export
+
